@@ -29,7 +29,7 @@ The dataset includes two CSV files with lyrics and a collection of MIDI files fo
 
 ### Preprocessing Steps:
 
-- Unzipping and organizing the data.
+- Unzipping and organizing the data. 
 - Cleaning the lyrics and removing non-alphanumeric characters.
 - Tokenizing the lyrics and normalizing contractions (e.g., "we'll" to "we will").
 - Creating a validation set by splitting the training data (95% training, 5% validation).
