@@ -15,9 +15,11 @@ This project explores the development of a Recurrent Neural Network (RNN) for ge
 6. [Prediction Examples](#prediction-examples)
 7. [Summary](#summary)
 
+
 ## Introduction
 
 This project involves creating an LSTM-based RNN to generate lyrics corresponding to a given melody. The training data consists of song lyrics and corresponding MIDI files, which contain various musical elements like notes, tempo, and instruments. The goal is to integrate this musical data with the lyrics to create a model that can produce coherent and musically relevant lyrics.
+
 
 ## Data Exploration and Preprocessing
 
@@ -33,7 +35,9 @@ The dataset includes two CSV files with lyrics and a collection of MIDI files fo
 - Tokenizing the lyrics and normalizing contractions (e.g., "we'll" to "we will").
 - Creating a validation set by splitting the training data (95% training, 5% validation).
 
-### Data Exploration and Visualization
+
+
+### Data Exploration and Visualization:
 
 ![image](https://github.com/user-attachments/assets/d0f7b30d-7065-4b34-8ef1-be6fba1a29cf)
 
