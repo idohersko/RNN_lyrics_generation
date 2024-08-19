@@ -12,8 +12,7 @@ This project explores the development of a Recurrent Neural Network (RNN) for ge
 3. [MIDI Features Extraction](#midi-features-extraction)
 4. [Model Architecture](#model-architecture)
 5. [Setup and Experiments](#setup-and-experiments)
-6. [Prediction Examples](#prediction-examples)
-7. [Summary](#summary)
+6. [Summary](#summary)
 
 
 ## Introduction
@@ -126,16 +125,6 @@ Both models showed promising results during training but encountered overfitting
 ![image](https://github.com/user-attachments/assets/e95eb012-e2e6-46b0-959b-dc65f9926a07)
 ![image](https://github.com/user-attachments/assets/c00ae35e-9a3b-4ce8-8262-080cf55980fd)
 
-
-
-
-## Prediction Examples
-
-The models were tested on a set of five songs, generating lyrics based on different initial words. Results were varied, with some generated lyrics aligning well with the melody and others showing room for improvement.
-
-![image](https://github.com/user-attachments/assets/0bb9dbf2-f95d-42d9-835b-046eb6573bd4)
-
-![image](https://github.com/user-attachments/assets/7a4945f2-0016-41aa-8bd5-3e812fe5010d)
 
 
 ## Summary
